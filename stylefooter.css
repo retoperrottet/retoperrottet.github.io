@@ -47,6 +47,7 @@ p {
 }
 
 br {
+  line-height: 1.25em;
   font-family: Helvetica;
   font-weight: 100;
   color: #2F2D2C;
