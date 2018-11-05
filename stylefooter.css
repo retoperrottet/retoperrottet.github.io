@@ -26,8 +26,8 @@ h2 {
 }
 
 h3 {
-  font-size: 1.365em;
-  line-height: 0.14em;
+  font-size: 1.563em;
+  line-height: 1.8em;
   font-family: Helvetica;
   font-weight: 100;
   color: #2F2D2C;
@@ -37,7 +37,7 @@ h3 {
 }
 
 p {
-  line-height: 1.25em;
+  line-height: 0.5em;
   font-family: Helvetica;
   font-weight: 100;
   color: #2F2D2C;
