@@ -46,16 +46,6 @@ p {
   text-align: justify;
 }
 
-br {
-  line-height: 1.25em;
-  font-family: Helvetica;
-  font-weight: 100;
-  color: #2F2D2C;
-  margin: 0em;
-  padding: 1.25em;
-  text-align: justify;
-}
-
 ul {
   margin: 0px;
   padding: 0px;
