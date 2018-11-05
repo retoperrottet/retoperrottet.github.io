@@ -46,6 +46,13 @@ p {
   text-align: justify;
 }
 
+br {
+  display: Block;
+  margin-bottom: 0.125em;
+  font-size: 0.125em;
+  line-height: 0.125em;
+}
+
 ul {
   margin: 0px;
   padding: 0px;
